@@ -1,2 +1,2 @@
-# teste
-Teste JS.
+# Teste
+Resolvido a questão 1.
